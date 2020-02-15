@@ -4,8 +4,6 @@ Hi! This document is collaborative and it's under construction!
 
 The idea is to create a path to make easier to learn Frontend in 2020 from basics to advanced.
 
-Hope it can help you :)
-
 This basic version is very inspired on (Amazing learning path):<br />
 https://github.com/kamranahmedse/developer-roadmap <br />
 https://roadmap.sh/frontend 
@@ -13,6 +11,7 @@ https://roadmap.sh/frontend
 
 ### Feel free to add contribute with topics or open a pull request! :D <br /> <br />
 
+Hope it can help you :)
 
 # _Basics_
 
