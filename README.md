@@ -4,7 +4,7 @@ Hi! This document is collaborative and it's under construction!
 
 The idea is to create a path to make easier to learn Frontend in 2020 from basics to advanced.
 
-This basic version is very inspired on (Amazing learning path):<br />
+This basic session is very inspired on (Amazing learning path):<br />
 https://github.com/kamranahmedse/developer-roadmap <br />
 https://roadmap.sh/frontend 
 
@@ -106,7 +106,11 @@ Since Javascript is a long topic, let's try to break it into smaller areas:
 
 
 # _Intermidiate_
-WIP
+ `Javascript Immutability`
+ 
+ **Mutable code is where the bugs lives.** Creating a immutable code will make it safer and predictable.
+ - [Imutable basics](https://www.youtube.com/watch?v=4LzcQyZ9JOU)
+ - [Ways to immutability in javascript by google](https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l) ⭐
 
 <br /><br /><br /><br />
 
