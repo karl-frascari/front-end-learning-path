@@ -1,4 +1,4 @@
-# Welcome to Front-end Learning Path Guide 2020!
+# Front-end Learning Path Guide 2020!
 
 Hi! This document is collaborative and it's under construction!
 
