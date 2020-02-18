@@ -1,4 +1,4 @@
-# Front-end Learning Path Guide 2020!
+# Humble Front-end Learning Path 2020!
 
 Hi! This document is collaborative and it's under construction!
 
